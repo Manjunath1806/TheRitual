@@ -1,2 +1,2 @@
 # TheRitual
-This one is supposed a rite of passage and i'm no exception to it. HELLO WORLD!! 
+This one is supposed to be a rite of passage and i'm no exception to it. HELLO WORLD!! 
